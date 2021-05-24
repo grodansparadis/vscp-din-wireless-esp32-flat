@@ -1,0 +1,44 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# L-59EGW-CA
+#
+DEF L-59EGW-CA LED 0 40 N N 1 L N
+F0 "LED" 250 -200 50 V V L BNN
+F1 "L-59EGW-CA" 350 -200 50 V V L BNN
+F2 "L-59EGW-CA" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 0 -200 0 -100 N
+P 2 0 0 6 0 200 0 -100 N
+P 2 0 0 10 0 -200 -50 -100 N
+P 2 0 0 10 50 -100 0 -200 N
+P 2 0 0 10 0 -100 -50 -100 N
+P 2 0 0 10 50 -100 0 -100 N
+P 2 0 0 10 0 -200 -50 -200 N
+P 2 0 0 10 50 -200 0 -200 N
+P 2 0 0 6 -80 -130 -135 -185 N
+P 2 0 0 6 -75 -175 -130 -230 N
+P 2 0 0 10 -50 200 0 200 N
+P 2 0 0 10 0 200 50 200 N
+P 2 0 0 10 -50 100 0 200 N
+P 2 0 0 10 -50 100 50 100 N
+P 2 0 0 10 0 200 50 100 N
+P 2 0 0 6 80 130 135 185 N
+P 2 0 0 6 75 175 130 230 N
+C 0 0 10 0 0 16 N
+T 900 -100 150 40 0 0 0 red Normal 0 L B
+T 900 100 -200 40 0 0 0 green Normal 0 L B
+P 3 0 0 6 -135 -185 -120 -150 -100 -170 f
+P 3 0 0 6 -130 -230 -115 -195 -95 -215 f
+P 3 0 0 6 95 215 130 230 115 195 f
+P 3 0 0 6 100 170 135 185 120 150 f
+X ~ 2 -100 0 100 R 40 40 0 0 P 
+X ~ 1 0 300 100 D 40 40 0 0 P 
+X ~ 3 0 -300 100 U 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
