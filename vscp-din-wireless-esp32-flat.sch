@@ -16,7 +16,7 @@ $EndDescr
 Text Notes 7000 6900 0    50   ~ 0
 VSCP DIN Wrireless ESP32 M1 Flat\nCopyright © Åke Hedman, Grodans Paradis AB\nhttps://www.grodansparadis.com\nhttps://www.vscp.org
 Text Notes 10600 7650 0    50   ~ 0
-A
+B
 Text Notes 8100 7650 0    50   ~ 0
 2021-05-20
 $Comp
@@ -480,7 +480,7 @@ U 1 1 60AE4E4D
 P 3700 7100
 F 0 "J1" V 3825 7096 50  0000 C CNN
 F 1 "Screw_Terminal_01x15" V 3916 7096 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical_SMD_Pin1Left" H 3700 7100 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 3700 7100 50  0001 C CNN
 F 3 "~" H 3700 7100 50  0001 C CNN
 	1    3700 7100
 	0    1    1    0   
