@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+vscp-din-wireless-esp32-flat-backups/*
