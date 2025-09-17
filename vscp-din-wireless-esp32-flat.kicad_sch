@@ -5585,7 +5585,7 @@
 				)
 			)
 		)
-		(property "Value" "US1D"
+		(property "Value" "SS34 3A 40V"
 			(at 119.38 161.8996 0)
 			(effects
 				(font
