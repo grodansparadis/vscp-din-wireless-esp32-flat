@@ -12,4 +12,6 @@ ESP32 based VSCP controller in flat DIN package
 
 Part of the [VSCP Project](https://www.vscp.org).
 
+
 Copyright 2021-2025 © Åke Hedman, (Grodans Paradis AB)[https://www.grodansparadis.com]
+
